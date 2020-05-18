@@ -1,0 +1,11 @@
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo.deps.json
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo.runtimeconfig.json
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo.runtimeconfig.dev.json
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo.dll
+/root/SendGridDemo/bin/Debug/netcoreapp3.1/SendGridDemo.pdb
+/root/SendGridDemo/obj/Debug/netcoreapp3.1/SendGridDemo.csprojAssemblyReference.cache
+/root/SendGridDemo/obj/Debug/netcoreapp3.1/SendGridDemo.AssemblyInfoInputs.cache
+/root/SendGridDemo/obj/Debug/netcoreapp3.1/SendGridDemo.AssemblyInfo.cs
+/root/SendGridDemo/obj/Debug/netcoreapp3.1/SendGridDemo.dll
+/root/SendGridDemo/obj/Debug/netcoreapp3.1/SendGridDemo.pdb
