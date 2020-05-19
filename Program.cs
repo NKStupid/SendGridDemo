@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
         static async Task SendMail()
         {
-            var apiKey = "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";
+            var apiKey = "";
             var client = new SendGridClient(apiKey);
             var msg = new SendGridMessage()
             {
